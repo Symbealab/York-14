@@ -18,7 +18,7 @@ I build small experiments, visual systems, and simple digital experiences to exp
 
 # Generative Flower — Order × Chaos
 
-🌐 **[Interactive Web Experience](https://york-14.github.io/Generative-flower-Order-Chaos/)**
+🌐 **[Interactive Web Experience](https://symbealab.github.io/Generative-flower-Order-Chaos/)**
 
 > Can beauty emerge from the balance between order and chaos?
 
@@ -34,7 +34,7 @@ Using a symmetric chaotic map inspired by the work of **Michael Field and Martin
 
 ### 2D — Generative Flower Studio
 
-**[Open the interactive experience →](https://york-14.github.io/Generative-flower-Order-Chaos/)**
+**[Open the interactive experience →](https://symbealab.github.io/Generative-flower-Order-Chaos/)**
 
 Explore a mathematical space of flower-like attractors by changing parameters such as:
 
@@ -57,7 +57,7 @@ The experience gradually learns your visual preference directly in the browser.
 
 ### 3D — Generative Flower
 
-**[Open the 3D experience →](https://york-14.github.io/Generative-flower-Order-Chaos/3d.html)**
+**[Open the 3D experience →](https://symbealab.github.io/Generative-flower-Order-Chaos/3d.html)**
 
 The 3D version extends the mathematical system by introducing a height dimension.
 
@@ -230,7 +230,7 @@ Future directions include:
 
 ## Creator
 
-**York-14**
+**Symbealab**
 
 Creator & Explorer exploring:
 
@@ -268,7 +268,7 @@ Michael Field と Martin Golubitsky の研究に着想を得た対称性を持�
 
 ### 2D — Generative Flower Studio
 
-**[インタラクティブ作品を見る →](https://york-14.github.io/Generative-flower-Order-Chaos/)**
+**[インタラクティブ作品を見る →](https://symbealab.github.io/Generative-flower-Order-Chaos/)**
 
 数学的に生成される花の形を、パラメータを変化させながら探索できます。
 
@@ -293,7 +293,7 @@ Michael Field と Martin Golubitsky の研究に着想を得た対称性を持�
 
 ### 3D — Generative Flower
 
-**[3D作品を見る →](https://york-14.github.io/Generative-flower-Order-Chaos/3d.html)**
+**[3D作品を見る →](https://symbealab.github.io/Generative-flower-Order-Chaos/3d.html)**
 
 2Dの数理モデルを拡張し、高さ方向の変数を加えることで、3次元の花のような形態を生成します。
 
@@ -502,7 +502,7 @@ Michael Field と Martin Golubitsky の研究に着想を得た対称性を持�
 
 ## Creator
 
-**York-14**
+**Symbealab**
 
 Creator & Explorer
 
@@ -522,8 +522,8 @@ Intelligence is the ability to explore.
 
 ---
 
-🌐 [Generative Flowerを体験する](https://york-14.github.io/Generative-flower-Order-Chaos/)
+🌐 [Generative Flowerを体験する](https://symbealab.github.io/Generative-flower-Order-Chaos/)
 
-🐙 ソースコードを見る
+🐙 [ソースコードを見る](https://github.com/Symbealab/Generative-flower-Order-Chaos)
 
 📷 [Instagram](https://www.instagram.com/york8worpco/)
